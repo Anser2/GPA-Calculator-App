@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808721373010",
+    "project_id": "qalamcalculator",
+    "storage_bucket": "qalamcalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808721373010:android:bba38ff0b81bfe5bec8c8b",
+        "android_client_info": {
+          "package_name": "com.xenonx.QalamCalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808721373010-kaegshuancho09s1upg8u1vrngufc8mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xenonx.QalamCalculator",
+            "certificate_hash": "8a2034b5b8176f8edd8b9ed459349f7c1cd97a0b"
+          }
+        },
+        {
+          "client_id": "808721373010-km47u22k2uq5posoptdgvskd8hnlsf5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfe4hvTOH47bZVTdBfRNNDYygFNa6o6Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808721373010-km47u22k2uq5posoptdgvskd8hnlsf5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
